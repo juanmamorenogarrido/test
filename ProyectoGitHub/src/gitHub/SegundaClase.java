@@ -1,9 +1,10 @@
 package gitHub;
 
-public class Basico {
+public class SegundaClase {
 
 	public static void main(String[] args) {
-		System.out.println("Que pasa");
+		// TODO Auto-generated method stub
+
 	}
 
 }
